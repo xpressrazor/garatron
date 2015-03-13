@@ -1,0 +1,1 @@
+Garatron is the project that shows how meetings, teachings, talks, presentations could be accomplished without the audience actually being physically present at the event place. By the help of the APIs provided by Java and Java Media Framework this accomplishment could be a success.
